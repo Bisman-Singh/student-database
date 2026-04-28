@@ -33,3 +33,5 @@ make clean
 ```
 
 This removes the binary and the data file.
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
